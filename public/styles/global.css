@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --purple-bg: #290742;
+  --dark-bg: #170027;
+  --button-bg: #9e6dc2;
+  --white: #fff;
+  --light-purple: #fbf6ff;
+  --green: #4fff4b;
+}
+
+body, input, button, textarea {
+  font-family: 'Poppins', sans-serif;
+  font-size: 1rem;
+  color: var(--white);
+}
+
+a {
+  text-decoration: none;
+}
