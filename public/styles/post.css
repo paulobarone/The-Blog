@@ -1,0 +1,107 @@
+#post__container {
+  max-width: 1175px;
+  margin: 70px auto;
+}
+
+main img {
+  margin-bottom: 16px
+}
+
+/* Post destacado primário */
+
+.post__destacado__primario__data {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--black);
+  display: block;
+}
+
+.post__destacado__primario__titulo {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+  color: var(--purple-bg);
+  margin: 16px 0;
+}
+
+.post__destacado__primario__descricao {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--black);
+  width: 570px;
+}
+
+
+/* Post destacado secundário */
+
+.post__destacado__secundario__data {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--black);
+}
+
+.post__destacado__secundario__titulo {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+  color: var(--purple-bg);
+  margin: 8px 0;
+  width: 471px;
+}
+
+.post__destacado__secundario__descricao {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--black);
+  width: 471px;
+}
+
+/* Divider */
+
+.divider {
+  width: 470px;
+  height: 2px;
+  background-color: var(--divider);
+  margin: 24px 0;
+}
+
+
+
+/* Posts */
+#post__recomendado__container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
+}
+/* Primeiro Post */
+
+.post__recomendado__data {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  color: var(--black);
+  display: block;
+}
+
+.post__recomendado__titulo {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+  color: var(--purple-bg);
+  margin: 8px 0;
+  width: 370px;
+}
+
+.post__recomendado__descricao {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--black);
+  width: 370px;
+}
