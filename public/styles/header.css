@@ -33,7 +33,7 @@ li {
 input {
   background: var(--dark-bg);
   border: 0 none;
-  padding: 14px 25px;
+  padding-left: 25px;
   border-radius: 4px 0 0 4px;
   width: 230px;
   height: 44px;
@@ -52,6 +52,7 @@ input {
 
 .search-button img {
   padding: 10px 23px;
+  cursor: pointer;
 }
 
 .presentation-container {
