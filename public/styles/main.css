@@ -1,0 +1,17 @@
+.post__container {
+  margin-top: 64px;
+}
+
+#post__destacado__container {
+  display: flex;
+}
+
+.post__destacado__primario {
+  display: flex;
+  flex-direction: column;
+}
+
+.post__destacado__secundario {
+  display: flex;
+  flex-direction: row;
+}
