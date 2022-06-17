@@ -4,6 +4,7 @@
 
 #post__destacado__container {
   display: flex;
+  margin-bottom: 64px;
 }
 
 .post__destacado__primario {
