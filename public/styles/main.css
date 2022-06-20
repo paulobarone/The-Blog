@@ -14,5 +14,5 @@
 
 .post__destacado__secundario {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
 }

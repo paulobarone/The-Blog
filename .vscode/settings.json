@@ -2,5 +2,6 @@
     "diffEditor.codeLens": true,
     "diffEditor.ignoreTrimWhitespace": false,
     "editor.formatOnType": false,
-    "editor.minimap.enabled": false
+    "editor.minimap.enabled": false,
+    "liveServer.settings.port": 5501
 }
